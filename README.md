@@ -32,3 +32,8 @@
 ## Medição de prioridade 
 
 
+| Funcionalidade                             | R    | I | C    | E | Prioridade |
+|--------------------------------------------|------|---|------|---|------------|
+| Log in com email  e senha                  | 2000 | 2 | 80%  | 5 | 100        |
+| Agendar consulta médica                    | 2000 | 3 | 100% | 3 | 100        |
+| Consultar próximas  consultas e anteriores | 2000 | 3 | 100% | 8 | 100        |
